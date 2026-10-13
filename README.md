@@ -25,7 +25,7 @@ To get started with this repository, follow these steps:
 1. **Clone the Repository**: Use the command below to clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/test.git
+   git clone https://hamza123-star.github.io
    ```
 
 2. **Navigate to the Directory**: Change into the repository directory.
@@ -46,7 +46,7 @@ To get started with this repository, follow these steps:
    npm start
    ```
 
-For more information, visit [GitHub](https://github.com).
+For more information, visit [GitHub](https://hamza123-star.github.io).
 
 ## Features
 
@@ -91,20 +91,20 @@ We welcome contributions from everyone. If you want to help improve this reposit
 
 6. **Create a Pull Request**: Navigate to the original repository and create a pull request.
 
-For detailed contribution guidelines, please refer to the [Contributing Guidelines](https://github.com/your-username/test/blob/main/CONTRIBUTING.md).
+For detailed contribution guidelines, please refer to the [Contributing Guidelines](https://hamza123-star.github.io).
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/your-username/test/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://hamza123-star.github.io) file for details.
 
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out:
 
 - **Email**: your-email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **GitHub**: [Your GitHub Profile](https://hamza123-star.github.io)
 
-For more updates, visit [GitHub](https://github.com).
+For more updates, visit [GitHub](https://hamza123-star.github.io).
 
 ---
 
